@@ -3,3 +3,11 @@
 ################################################################################
 
 /Blood_Donation_Management_System.slnx
+.vs/
+bin/
+obj/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates 
